@@ -9,8 +9,8 @@ app = Client("Alokimibot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN
 
 # معرفات المجموعتين (مجموعة التجارب وقناة صفقات ماجد)
 TARGET_CHAT_IDS = [
-    -100xxxxxxxxxx",  
-    -100yyyyyyyyyy",  
+    "-100xxxxxxxxxx",  
+    "-100yyyyyyyyyy",  
 ]
 
 # متغير لحفظ حالة البوت (مغلق افتراضياً)
